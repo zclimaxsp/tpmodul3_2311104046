@@ -1,0 +1,14 @@
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\bin\Debug\net7.0\tpmodul3_2311104046.exe
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\bin\Debug\net7.0\tpmodul3_2311104046.deps.json
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\bin\Debug\net7.0\tpmodul3_2311104046.runtimeconfig.json
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\bin\Debug\net7.0\tpmodul3_2311104046.dll
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\bin\Debug\net7.0\tpmodul3_2311104046.pdb
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\obj\Debug\net7.0\tpmodul3_2311104046.GeneratedMSBuildEditorConfig.editorconfig
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\obj\Debug\net7.0\tpmodul3_2311104046.AssemblyInfoInputs.cache
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\obj\Debug\net7.0\tpmodul3_2311104046.AssemblyInfo.cs
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\obj\Debug\net7.0\tpmodul3_2311104046.csproj.CoreCompileInputs.cache
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\obj\Debug\net7.0\tpmodul3_2311104046.dll
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\obj\Debug\net7.0\refint\tpmodul3_2311104046.dll
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\obj\Debug\net7.0\tpmodul3_2311104046.pdb
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\obj\Debug\net7.0\tpmodul3_2311104046.genruntimeconfig.cache
+D:\zclimaxp\tpmodul3_2311104046\tpmodul3_2311104046\obj\Debug\net7.0\ref\tpmodul3_2311104046.dll
